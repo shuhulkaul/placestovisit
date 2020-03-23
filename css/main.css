@@ -5,7 +5,7 @@ body
 .header
 {
     font-family: 'Berkshire Swash', cursive;
-    font-size: 64px;
+    font-size: 7vw;
     color: #ffac41;
     display: block;
     text-align: center;
@@ -20,7 +20,7 @@ body
 
     margin-top: 0px;
     font-family: 'Waiting for the Sunrise', cursive;
-    font-size: 40px;
+    font-size: 4vw;
     color: #ffffff;
     display: block;
     text-align: center;
@@ -38,7 +38,7 @@ body
     border-radius: 10px;
     margin-right: 10px;
     height: 30px;
-    width: 200px;
+    width: 25vw;
     box-shadow: white;
     color: black;
 }
@@ -68,7 +68,7 @@ body
 .result-text
 {
     font-weight: bold;
-    font-size: 35px;
+    font-size: 5vw;
     font-family: 'Amatic SC', cursive;
     color: white;
     text-align: center;
